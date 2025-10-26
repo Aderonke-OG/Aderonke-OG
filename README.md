@@ -1,4 +1,4 @@
-Hi there 👋
+### Hi there 👋
 I’m Aderonke Ogunsakin — Data Analyst | Insight Translator | Storyteller with Data
 
 > **“Data tells a story — I make sure it’s one worth listening to.”**
@@ -18,7 +18,7 @@ I bring data to life through 🔍analytical thinking, 🎨creative problem-solvi
 ---
 
 **🛠️ Tech Stack**
-* Python | SQL | Power BI | Excel | Tableau | MySQL
+* Python | SQL | Power BI | Excel | Tableau | MySQL 
 
 ---
 
