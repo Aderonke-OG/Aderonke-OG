@@ -27,6 +27,7 @@ Passionate about analytics, forecasting, and dashboard development in Power BI a
 **📈 Projects I’m Proud Of**
 
 * 💰 Sales Dashboard: Excel dashboard to improve product sales
+* Audit Dashboard: An interactive Power BI dashboard designed to visualize and analyze audit findings across multiple business areas and also reveal levels of complaince for exceptions raised by auditors
 
 ---
 
