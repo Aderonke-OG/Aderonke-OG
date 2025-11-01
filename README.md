@@ -2,7 +2,7 @@
 I’m Aderonke Ogunsakin 
 Data Analyst | Insight Translator | Storyteller with Data
 
-> **“Data tells a story, I make sure it’s one worth listening to.”**
+> **“Data tells a story, and I make sure it’s one worth listening to.”**
 
 I turn complex financial and audit data into clear, visual stories that drive business performance and compliance.
 Passionate about analytics, forecasting, and dashboard development in Power BI and SQL.
