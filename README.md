@@ -8,7 +8,7 @@ I turn complex financial data into clear, visual stories that drive business per
 Passionate about analytics, forecasting, and dashboard development in Power BI, Tableau, and SQL.
 
 **🛠️ Tech Stack**
-* Python | SQL | Power BI | Excel | Tableau | MySQL
+* Python | SQL | Power BI | Excel | Tableau
 
 ---
 
